@@ -1,0 +1,24 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>SERIES</title>
+<thumbnail>http://pandoraplayer.xyz/pelis/series.jpg</thumbnail>
+<fanart>https://i.imgur.com/g3KzGHF.png</fanart>
+<link>http://indnorame.com</link>
+<externallink>http://pandoraplayer.epizy.com/pelis/series.xml</externallink>
+</item>
+<item>
+<title>PELICULAS</title>
+<thumbnail>http://pandoraplayer.xyz/pelis/peliculas.jpg</thumbnail>
+<fanart>https://i.imgur.com/g3KzGHF.png</fanart>
+<link>http://indnorame.com</link>
+<externallink>http://pandoraplayer.epizy.com/pelis/peliculas.xml</externallink>
+</item>
+<item>
+<title>DOCUMENTALES</title>
+<thumbnail>https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2018/04/05170505/ultimate-netflix-guide-700x200.jpg</thumbnail>
+<fanart>https://i.imgur.com/g3KzGHF.png</fanart>
+<link>http://indnorame.com</link>
+<externallink>https://pastebin.com/raw/7qN0vJTg</externallink>
+</item>
