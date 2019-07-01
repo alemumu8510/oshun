@@ -6,14 +6,14 @@
 <thumbnail>http://pandoraplayer.xyz/pelis/series.jpg</thumbnail>
 <fanart>https://i.imgur.com/g3KzGHF.png</fanart>
 <link>http://indnorame.com</link>
-<externallink>http://pandoraplayer.epizy.com/pelis/series.xml</externallink>
+<externallink>https://raw.githubusercontent.com/alemumu8510/oshun/master/series.xml</externallink>
 </item>
 <item>
 <title>PELICULAS</title>
 <thumbnail>http://pandoraplayer.xyz/pelis/peliculas.jpg</thumbnail>
 <fanart>https://i.imgur.com/g3KzGHF.png</fanart>
 <link>http://indnorame.com</link>
-<externallink>http://pandoraplayer.epizy.com/pelis/peliculas.xml</externallink>
+<externallink>https://raw.githubusercontent.com/alemumu8510/oshun/master/peliculas.xml</externallink>
 </item>
 <item>
 <title>DOCUMENTALES</title>
